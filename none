@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int x=3,y=5;
+    if(x==y==0)
+        printf("Equal\n");
+        else
+            printf("not Equal\n");
+        return 0;
+}
